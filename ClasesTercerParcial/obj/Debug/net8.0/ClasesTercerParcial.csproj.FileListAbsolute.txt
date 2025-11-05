@@ -1,0 +1,15 @@
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\TercerParcial_AgustinCravero\ClasesTercerParcial\bin\Debug\net8.0\ClasesTercerParcial.deps.json
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\TercerParcial_AgustinCravero\ClasesTercerParcial\bin\Debug\net8.0\ClasesTercerParcial.runtimeconfig.json
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\TercerParcial_AgustinCravero\ClasesTercerParcial\bin\Debug\net8.0\ClasesTercerParcial.dll
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\TercerParcial_AgustinCravero\ClasesTercerParcial\bin\Debug\net8.0\ClasesTercerParcial.pdb
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\TercerParcial_AgustinCravero\ClasesTercerParcial\obj\Debug\net8.0\ClasesTercerParcial.csproj.AssemblyReference.cache
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\TercerParcial_AgustinCravero\ClasesTercerParcial\obj\Debug\net8.0\ClasesTercerParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\TercerParcial_AgustinCravero\ClasesTercerParcial\obj\Debug\net8.0\ClasesTercerParcial.AssemblyInfoInputs.cache
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\TercerParcial_AgustinCravero\ClasesTercerParcial\obj\Debug\net8.0\ClasesTercerParcial.AssemblyInfo.cs
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\TercerParcial_AgustinCravero\ClasesTercerParcial\obj\Debug\net8.0\ClasesTercerParcial.csproj.CoreCompileInputs.cache
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\TercerParcial_AgustinCravero\ClasesTercerParcial\obj\Debug\net8.0\ClasesTercerParcial.sourcelink.json
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\TercerParcial_AgustinCravero\ClasesTercerParcial\obj\Debug\net8.0\ClasesTercerParcial.dll
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\TercerParcial_AgustinCravero\ClasesTercerParcial\obj\Debug\net8.0\refint\ClasesTercerParcial.dll
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\TercerParcial_AgustinCravero\ClasesTercerParcial\obj\Debug\net8.0\ClasesTercerParcial.pdb
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\TercerParcial_AgustinCravero\ClasesTercerParcial\obj\Debug\net8.0\ClasesTercerParcial.genruntimeconfig.cache
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\TercerParcial_AgustinCravero\ClasesTercerParcial\obj\Debug\net8.0\ref\ClasesTercerParcial.dll
