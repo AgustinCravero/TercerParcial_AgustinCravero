@@ -6,16 +6,36 @@
       "AbsoluteMoniker": "D:0:0:{87164E01-E4E2-41ED-A96E-2EC8DB1C05DC}|..\\FRONT\\FRONT.csproj|c:\\agust\u00EDn cravero - desarrollo de software\\programacion1\\tercerparcial_agustincravero\\front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3E520BF-229E-411E-AFF7-DEDC4F7C58A7}|ClasesTercerParcial.csproj|c:\\agust\u00EDn cravero - desarrollo de software\\programacion1\\tercerparcial_agustincravero\\clasestercerparcial\\repositories\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3E520BF-229E-411E-AFF7-DEDC4F7C58A7}|ClasesTercerParcial.csproj|solutionrelative:repositories\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3E520BF-229E-411E-AFF7-DEDC4F7C58A7}|ClasesTercerParcial.csproj|c:\\agust\u00EDn cravero - desarrollo de software\\programacion1\\tercerparcial_agustincravero\\clasestercerparcial\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E520BF-229E-411E-AFF7-DEDC4F7C58A7}|ClasesTercerParcial.csproj|solutionrelative:repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3E520BF-229E-411E-AFF7-DEDC4F7C58A7}|ClasesTercerParcial.csproj|c:\\agust\u00EDn cravero - desarrollo de software\\programacion1\\tercerparcial_agustincravero\\clasestercerparcial\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3E520BF-229E-411E-AFF7-DEDC4F7C58A7}|ClasesTercerParcial.csproj|solutionrelative:models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3E520BF-229E-411E-AFF7-DEDC4F7C58A7}|ClasesTercerParcial.csproj|c:\\agust\u00EDn cravero - desarrollo de software\\programacion1\\tercerparcial_agustincravero\\clasestercerparcial\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E520BF-229E-411E-AFF7-DEDC4F7C58A7}|ClasesTercerParcial.csproj|solutionrelative:repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E520BF-229E-411E-AFF7-DEDC4F7C58A7}|ClasesTercerParcial.csproj|c:\\agust\u00EDn cravero - desarrollo de software\\programacion1\\tercerparcial_agustincravero\\clasestercerparcial\\repositories\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E520BF-229E-411E-AFF7-DEDC4F7C58A7}|ClasesTercerParcial.csproj|solutionrelative:repositories\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E520BF-229E-411E-AFF7-DEDC4F7C58A7}|ClasesTercerParcial.csproj|c:\\agust\u00EDn cravero - desarrollo de software\\programacion1\\tercerparcial_agustincravero\\clasestercerparcial\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E520BF-229E-411E-AFF7-DEDC4F7C58A7}|ClasesTercerParcial.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3E520BF-229E-411E-AFF7-DEDC4F7C58A7}|ClasesTercerParcial.csproj|c:\\agust\u00EDn cravero - desarrollo de software\\programacion1\\tercerparcial_agustincravero\\clasestercerparcial\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3E520BF-229E-411E-AFF7-DEDC4F7C58A7}|ClasesTercerParcial.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E520BF-229E-411E-AFF7-DEDC4F7C58A7}|ClasesTercerParcial.csproj|c:\\agust\u00EDn cravero - desarrollo de software\\programacion1\\tercerparcial_agustincravero\\clasestercerparcial\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E520BF-229E-411E-AFF7-DEDC4F7C58A7}|ClasesTercerParcial.csproj|solutionrelative:models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E520BF-229E-411E-AFF7-DEDC4F7C58A7}|ClasesTercerParcial.csproj|c:\\agust\u00EDn cravero - desarrollo de software\\programacion1\\tercerparcial_agustincravero\\clasestercerparcial\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E520BF-229E-411E-AFF7-DEDC4F7C58A7}|ClasesTercerParcial.csproj|solutionrelative:models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E520BF-229E-411E-AFF7-DEDC4F7C58A7}|ClasesTercerParcial.csproj|c:\\agust\u00EDn cravero - desarrollo de software\\programacion1\\tercerparcial_agustincravero\\clasestercerparcial\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E520BF-229E-411E-AFF7-DEDC4F7C58A7}|ClasesTercerParcial.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,54 +57,119 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\ClasesTercerParcial\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "Models\\Venta.cs",
+              "ToolTip": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\ClasesTercerParcial\\Models\\Venta.cs",
+              "RelativeToolTip": "Models\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:09:13.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\ClasesTercerParcial\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\ClasesTercerParcial\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:08:33.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\FRONT\\Program.cs",
               "RelativeDocumentMoniker": "..\\FRONT\\Program.cs",
               "ToolTip": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\FRONT\\Program.cs",
               "RelativeToolTip": "..\\FRONT\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T13:37:23.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmpleadoRepository.cs",
-              "DocumentMoniker": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\ClasesTercerParcial\\Repositories\\EmpleadoRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\EmpleadoRepository.cs",
-              "ToolTip": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\ClasesTercerParcial\\Repositories\\EmpleadoRepository.cs",
-              "RelativeToolTip": "Repositories\\EmpleadoRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\ClasesTercerParcial\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\ClasesTercerParcial\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T13:27:28.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\ClasesTercerParcial\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\ClasesTercerParcial\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:14:18.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\ClasesTercerParcial\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\ClasesTercerParcial\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T13:18:30.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Empleado.cs",
-              "DocumentMoniker": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\ClasesTercerParcial\\Models\\Empleado.cs",
-              "RelativeDocumentMoniker": "Models\\Empleado.cs",
-              "ToolTip": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\ClasesTercerParcial\\Models\\Empleado.cs",
-              "RelativeToolTip": "Models\\Empleado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\ClasesTercerParcial\\Repositories\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\VentaRepository.cs",
+              "ToolTip": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\ClasesTercerParcial\\Repositories\\VentaRepository.cs",
+              "RelativeToolTip": "Repositories\\VentaRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T13:14:18.911Z",
+              "WhenOpened": "2025-11-05T22:30:11.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\ClasesTercerParcial\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductoRepository.cs",
+              "ToolTip": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\ClasesTercerParcial\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:28:34.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\ClasesTercerParcial\\Models\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "Models\\DetalleVenta.cs",
+              "ToolTip": "C:\\Agust\u00EDn Cravero - Desarrollo de Software\\Programacion1\\TercerParcial_AgustinCravero\\ClasesTercerParcial\\Models\\DetalleVenta.cs",
+              "RelativeToolTip": "Models\\DetalleVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:17:38.492Z",
               "EditorCaption": ""
             }
           ]

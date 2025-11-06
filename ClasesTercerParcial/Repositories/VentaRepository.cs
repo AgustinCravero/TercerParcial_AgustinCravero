@@ -9,26 +9,23 @@ using System.Threading.Tasks;
 
 namespace ClasesTercerParcial.Repositories
 {
-    public class EmpleadoRepository
+    public class VentaRepository
     {
-        public static void CargarEmpleado(Empleado empleado)
+        public static void GuardarVenta(Venta venta)
         {
             using var context = new ApplicationDbContext();
-            context.Empleados.Add(empleado);
+            context.Ventas.Add(venta);
 
             context.SaveChanges();
         }
-        public static List<Empleado> ObtenerEmpleados()
+        public static List<Venta> ObtenerVentas()
         {
             using var context = new ApplicationDbContext();
-            return context.Empleados.ToList();
-        }
-        public static void EliminarEmpleado(Empleado empleado)
-        {
-            using var context = new ApplicationDbContext();
-            context.Empleados.Remove(empleado);
-
-            context.SaveChanges();
+            return context.Ventas
+                .Include(v => v.Cliente)
+                .Include(v => v.Detalles)
+                .ThenInclude(d => d.Producto)
+                .ToList();
         }
     }
 }
